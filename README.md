@@ -1,4 +1,4 @@
-###Bluetick Consultancy: A Simple React Webpage
+##Bluetick Consultancy: A Simple React Webpage
 This project is a simple webpage built using React that describes Blutick Consultancy and its offerings. The webpage includes sections about the company, its features, and a contact form for inquiries.
 
 ##Getting Started
