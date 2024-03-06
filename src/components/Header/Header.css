@@ -1,0 +1,4 @@
+ .brandTag{
+    max-width: 20%; /* Set the maximum width to the container width */
+  height: 20%; /* Allow the height to adjust proportionally based on the width */
+}

@@ -1,0 +1,31 @@
+.What-we-offer{
+    text-align: center;
+}
+
+.What-we-offer h2{
+    color: #0d6efd;
+    background-color: white;
+    border-radius: 20px;
+
+    margin: 4% auto;
+    width: 80%;
+    height: 80%;
+    padding: 0.5%;
+}
+
+.What-we-offer .card-title {
+    color:#0d6efd ;
+    background-color: white;
+    border-radius: 20px;
+    border-radius: 20px;
+}
+
+.card-content{
+    display: flex;
+    justify-content: space-around;
+    padding: 5%;
+}
+
+.card-content .card {
+    border-radius: 20px;
+}

@@ -1,0 +1,35 @@
+.blog {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: center;
+}
+
+.blog h2{
+    color: #0d6efd;
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    margin: 4% auto;
+    width: 80%;
+    height: 80%;
+    padding: 0.5%;
+}
+
+.blog-card-content{
+    display: grid;
+    grid-template-columns: auto auto;
+    row-gap: 50px;
+    justify-content: space-around;
+}
+
+.blog-card-content .card-title{
+    color:#0d6efd ;
+    background-color: white;
+    border-radius: 20px;
+    border-radius: 20px;
+    
+}
+
+.card-link img{
+    width: 30px;
+}
